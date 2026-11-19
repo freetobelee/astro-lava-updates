@@ -1,28 +1,28 @@
 {
   "schema": 1,
   "apk": {
-    "versionName": "0.2.5",
-    "versionCode": 7,
-    "url": "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/apk/astro-lava-v0.2.5.apk",
+    "versionName": "0.2.6",
+    "versionCode": 8,
+    "url": "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/apk/astro-lava-v0.2.6.apk",
     "urls": [
-      "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/apk/astro-lava-v0.2.5.apk",
-      "https://freetobelee.github.io/astro-lava-updates/apk/astro-lava-v0.2.5.apk",
-      "http://lava.local:8080/updates/apk/astro-lava-v0.2.5.apk"
+      "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/apk/astro-lava-v0.2.6.apk",
+      "https://freetobelee.github.io/astro-lava-updates/apk/astro-lava-v0.2.6.apk",
+      "http://lava.local:8080/updates/apk/astro-lava-v0.2.6.apk"
     ],
-    "sha256": "d8be325c9f4fce25ada4e25e5ff81faeec1f50297f7d791f72ace0c1ae2e8191",
-    "size": 1225207
+    "sha256": "d3a2d6bb92ffcb863a6dae9ce7d83c8f7f5692a691c7c47125e79dab13049acb",
+    "size": 1228683
   },
   "content": {
-    "version": "1.1.0",
-    "versionCode": 2,
-    "url": "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/content/content-1.1.0.zip",
+    "version": "1.2.0",
+    "versionCode": 3,
+    "url": "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/content/content-1.2.0.zip",
     "urls": [
-      "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/content/content-1.1.0.zip",
-      "https://freetobelee.github.io/astro-lava-updates/content/content-1.1.0.zip",
-      "http://lava.local:8080/updates/content/content-1.1.0.zip"
+      "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/content/content-1.2.0.zip",
+      "https://freetobelee.github.io/astro-lava-updates/content/content-1.2.0.zip",
+      "http://lava.local:8080/updates/content/content-1.2.0.zip"
     ],
-    "sha256": "35779835f34308e47a03672db07d51290b3d78ce9ddfecd7cba02814d04a03d1",
-    "size": 17060,
-    "minApkVersionCode": 6
+    "sha256": "97ca2d9f52da522f3fdbba6e378116a6712630757ac0b8a85b484418d7290061",
+    "size": 17321,
+    "minApkVersionCode": 8
   }
 }
