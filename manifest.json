@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "apk": {
-    "versionName": "0.2.26",
-    "versionCode": 28,
-    "url": "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/apk/astro-lava-v0.2.26.apk",
+    "versionName": "0.2.27",
+    "versionCode": 29,
+    "url": "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/apk/astro-lava-v0.2.27.apk",
     "urls": [
-      "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/apk/astro-lava-v0.2.26.apk",
-      "https://freetobelee.github.io/astro-lava-updates/apk/astro-lava-v0.2.26.apk",
-      "http://lava.local:8080/updates/apk/astro-lava-v0.2.26.apk"
+      "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/apk/astro-lava-v0.2.27.apk",
+      "https://freetobelee.github.io/astro-lava-updates/apk/astro-lava-v0.2.27.apk",
+      "http://lava.local:8080/updates/apk/astro-lava-v0.2.27.apk"
     ],
-    "sha256": "7b7016ac8809c8a2c97132f5c0daf63caac19b8281b1dcdde847cdd2503e4609",
-    "size": 1691511
+    "sha256": "dc81f8e3b4dab5441ea7846b00235f6f502789259748debde46ccdededb687c3",
+    "size": 1691923
   },
   "content": {
     "version": "1.7.7",
