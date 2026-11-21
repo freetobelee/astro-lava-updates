@@ -13,16 +13,16 @@
     "size": 1691923
   },
   "content": {
-    "version": "1.7.7",
-    "versionCode": 27,
-    "url": "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/content/content-1.7.7.zip",
+    "version": "1.7.8",
+    "versionCode": 28,
+    "url": "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/content/content-1.7.8.zip",
     "urls": [
-      "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/content/content-1.7.7.zip",
-      "https://freetobelee.github.io/astro-lava-updates/content/content-1.7.7.zip",
-      "http://lava.local:8080/updates/content/content-1.7.7.zip"
+      "https://raw.githubusercontent.com/freetobelee/astro-lava-updates/main/content/content-1.7.8.zip",
+      "https://freetobelee.github.io/astro-lava-updates/content/content-1.7.8.zip",
+      "http://lava.local:8080/updates/content/content-1.7.8.zip"
     ],
-    "sha256": "39ee25bc42dfd8465c15f7e96a237fe7895d960b154ddfd5bd406b30e1349704",
-    "size": 45327,
+    "sha256": "26bf74888fa30e4d16b09d290c661cfe11e5d183b67dd921088f757de40d7bee",
+    "size": 45325,
     "minApkVersionCode": 27
   }
 }
